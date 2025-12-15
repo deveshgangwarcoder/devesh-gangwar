@@ -13,7 +13,7 @@
 ---
 
 ### 🔗 Connect with me
-- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/devesh-gangwar-a038b929b
+- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/devesh-gangwar01
 - GitHub: https://github.com/deveshgangwarcoder
 
 ---
