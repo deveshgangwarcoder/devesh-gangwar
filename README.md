@@ -7,8 +7,8 @@
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Java Full Stack**
 - 💻 Skills: HTML, CSS, JavaScript, Java
-- 🎯 Goal: Software Developer
-- 📫 Email: your-email@gmail.com
+- 🎯 Goal: Software Developer ,frontend developer , backend developer
+- 📫 Email:deveshgangwar22@gmail.com
 
 ---
 
