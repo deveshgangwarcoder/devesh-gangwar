@@ -21,7 +21,6 @@
 - GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
 
 ## (2)🧑‍💻 Portfolio Website
-
 - Personal portfolio website built using HTML, CSS, and JavaScript
 - Showcases my skills, projects, and contact information
 - Responsive design for all devices
