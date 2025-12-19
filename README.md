@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deveshgangwarcoder&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Devesh Gangwar</h1>
 <h3 align="center">Fresher Web Developer | Java Full Stack Learner</h3>
 
@@ -20,7 +24,7 @@
 - Live Demo: https://deveshgangwarcoder.github.io/todo-list-app/  
 - GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
 
-## (2)🧑‍💻 Portfolio Website
+### (2)🧑‍💻 Portfolio Website
 - Personal portfolio website built using HTML, CSS, and JavaScript
 - Showcases my skills, projects, and contact information
 - Responsive design for all devices
