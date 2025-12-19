@@ -1,4 +1,4 @@
-🌐 Live Portfolio: https://deveshgangwarcoder.github.io/devesh-gangwar
+
 
 <h1 align="center">Hi 👋, I'm Devesh Gangwar</h1>
 <h3 align="center">Fresher Web Developer | Java Full Stack Learner</h3>
