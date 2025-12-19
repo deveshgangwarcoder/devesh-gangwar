@@ -13,6 +13,16 @@
 - 📫 Email:deveshgangwar22@gmail.com
 
 ---
+## 📝 Projects
+
+### ✅ To-Do List App
+- Built using HTML, CSS, and JavaScript
+- Add & delete tasks
+- Responsive UI
+
+ Live Demo: https://deveshgangwarcoder.github.io/todo-list-app/  
+ GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
+
 
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/www.linkedin.com/in/devesh-gangwar01
