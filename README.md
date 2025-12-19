@@ -1,8 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Devesh Gangwar</h1>
 <h3 align="center">Fresher Web Developer | Java Full Stack Learner</h3>
-
 
 ---
 
@@ -15,17 +12,15 @@
 ---
 ## 📝 Projects
 
-### ✅ To-Do List App
+### (1)✅ To-Do List App
 - Built using HTML, CSS, and JavaScript
 - Add & delete tasks
 - Responsive UI
 
 - Live Demo: https://deveshgangwarcoder.github.io/todo-list-app/  
 - GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
- 
----
 
-## 🧑‍💻 Portfolio Website
+## (2)🧑‍💻 Portfolio Website
 
 - Personal portfolio website built using HTML, CSS, and JavaScript
 - Showcases my skills, projects, and contact information
