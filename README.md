@@ -52,7 +52,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshgangwarcoder&layout=compact" />
 </p>
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=deveshgangwarcoder&show_icons=true&theme=default" />
 </p>
 
