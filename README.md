@@ -20,8 +20,9 @@
 - Add & delete tasks
 - Responsive UI
 
- Live Demo: https://deveshgangwarcoder.github.io/todo-list-app/  
- GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
+- Live Demo: https://deveshgangwarcoder.github.io/todo-list-app/  
+- GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
+ 
 ---
 
 ### 🔗 Connect with me
