@@ -25,6 +25,17 @@
  
 ---
 
+## 🧑‍💻 Portfolio Website
+
+- Personal portfolio website built using HTML, CSS, and JavaScript
+- Showcases my skills, projects, and contact information
+- Responsive design for all devices
+
+- Live Portfolio: https://deveshgangwarcoder.github.io/devesh-gangwar/  
+- GitHub Repo: https://github.com/deveshgangwarcoder/devesh-gangwar
+
+---
+
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/www.linkedin.com/in/devesh-gangwar01
 - GitHub: https://github.com/deveshgangwarcoder
