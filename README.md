@@ -22,7 +22,7 @@
 
  Live Demo: https://deveshgangwarcoder.github.io/todo-list-app/  
  GitHub Repo: https://github.com/deveshgangwarcoder/todo-list-app
-
+---
 
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/www.linkedin.com/in/devesh-gangwar01
